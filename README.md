@@ -127,7 +127,7 @@ Deforestation_Detection_Fire/
 
 ---
 
-[GitHub](https://github.com/final-year-project-ramgarh)
+[GitHub](https://github.com/final-year-project-ramgarh/FireWatch)
 
 ---
 
