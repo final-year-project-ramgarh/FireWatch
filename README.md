@@ -11,7 +11,7 @@
 
 ## 🌐 Live App
 
-👉 **[Open on Streamlit Cloud](https://grv-firewatch-india.streamlit.app/)**
+👉 **[Open on Streamlit Cloud](https://final-year-project-ramgarh-firewatch.streamlit.app/)**
 
 ---
 
